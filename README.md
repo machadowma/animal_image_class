@@ -1,5 +1,5 @@
 # animal_image_class
-Classificação de imagens de animais utilizando SURF, Bag of Visual Words e SVM.
+Algoritmo que, com base em amostras de imagens de animais fornecidas durante a etapa de treinamento, aprende a reconhecer os animais contidos em imagens. O algoritmo é implementado utilizando python3 e opencv-contrib e aplica os conceitos de Machine Learning, Speeded Up Robust Features (SURF), Bag of Visual Words e Support Vector Machine (SVM).
 
 # Pré-requisito
  * Python3
