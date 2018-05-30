@@ -16,3 +16,6 @@ Nos testes realizados, taxa geral de acerto do algoritmo foi de 60%. Para as cla
 
 # Referências
  * J. Minichino, J. Howse, Learning OpenCV 3 Computer Vision with Python, Packt Publishing Ltd, 2015.
+ * https://docs.opencv.org/3.4.0/df/dd2/tutorial_py_surf_intro.html
+ * https://docs.opencv.org/2.4/modules/features2d/doc/object_categorization.html
+ * https://docs.opencv.org/2.4/doc/tutorials/ml/introduction_to_svm/introduction_to_svm.html
