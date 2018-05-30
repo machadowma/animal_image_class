@@ -6,7 +6,7 @@ Classificação de imagens de animais utilizando SURF, Bag of Visual Words e SVM
  * Opencv-contrib
 
 # Testes realizados
-Foram realizados testes utilizando 120 imagens, distribuídas igualmente entre as classes abaixo:
+Foram realizados testes utilizando 120 imagens adquiridas do Google Images, distribuídas igualmente entre as classes abaixo:
  * cat
  * giraffe
  * human
