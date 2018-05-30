@@ -12,7 +12,7 @@ Foram realizados testes utilizando 120 imagens adquiridas do Google Images, dist
  * human
  * lion
 
-Nos testes realizados, taxa geral de acerto do algoritmo foi de 60%. Para as classes cat, giraffe, human e lion individualmente, a taxa de acerto foi respectivamente de 30%, 70%, 60% e 50%. Resultados mais precisos tendem a ser alcançados utilizando um conjunto maior de imagens. Contudo, os testes iniciais indicam que o algoritmo é promissor.
+Nos testes realizados, a melhor taxa geral de acerto do algoritmo foi de 60%. Para as classes cat, giraffe, human e lion individualmente, a taxa de acerto foi respectivamente de 70%, 70%, 50% e 50%. Resultados mais precisos tendem a ser alcançados utilizando um conjunto maior de imagens. Contudo, os testes iniciais indicam que o algoritmo é promissor.
 
 # Referências
  * J. Minichino, J. Howse, Learning OpenCV 3 Computer Vision with Python, Packt Publishing Ltd, 2015.
