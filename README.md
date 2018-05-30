@@ -11,6 +11,7 @@ Foram realizados testes utilizando 120 imagens, distribuídas igualmente entre a
  * giraffe
  * human
  * lion
+
 Nos testes realizados, taxa geral de acerto do algoritmo foi de 60%. Para as classes cat, giraffe, human e lion individualmente, a taxa de acerto foi respectivamente de 30%, 70%, 60% e 50%. Resultados mais precisos tendem a ser alcançados utilizando um conjunto maior de imagens. Contudo, os testes iniciais indicam que o algoritmo é promissor.
 
 # Referências
